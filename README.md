@@ -29,8 +29,8 @@ I’m always exploring exciting challenges and cross-functional innovation. Whet
 ## 📬 Contact Me
 
 - 📧 **Email:** farhanali27718@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/muhammadshiraz]([https://linkedin.com/in/muhammadshiraz](https://www.linkedin.com/in/farhan-laeeq-14686a17a/))  
-- 🐙 **GitHub:** [github.com/muhammadshiraz](https://github.com/farhanlaeeq)  
+- 💼 **LinkedIn:** [linkedin.com/in/farhan-laeeq](https://www.linkedin.com/in/farhan-laeeq-14686a17a/)  
+- 🐙 **GitHub:** [github.com/farhanlaeeq](https://github.com/farhanlaeeq)  
 - 📞 **Phone/WhatsApp:** +92-0031-031-1350
 
 ---
