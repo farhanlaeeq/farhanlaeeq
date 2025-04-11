@@ -36,7 +36,7 @@ I’m always exploring exciting challenges and cross-functional innovation. Whet
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadshiraz&show_icons=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanlaeeq&show_icons=true&hide=contribs)
 
 ---
 
