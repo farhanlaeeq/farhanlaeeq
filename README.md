@@ -1,6 +1,3 @@
-
-![Farhan Laeeq – Senior Software Engineer & Data Analyst](principal_frontend_engineer.jpg)
-
 # 🚀 Full Stack Senior Software Engineer & Data Analyst  
 ### React.js | Node.js | .NET Core | MS SQL | MongoDB | Python (FastAPI, Pandas, TensorFlow)
 
